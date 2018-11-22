@@ -1,0 +1,1 @@
+pyinstaller "shodan_softwareprojekt.py" -F

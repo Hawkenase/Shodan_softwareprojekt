@@ -1,0 +1,5 @@
+('c:\\users\\laptop\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests-2.20.1-py3.7.egg',
+ None,
+ {'*.cp37-win_amd64.pyd', '*.pyw', '*.pyc', 'EGG-INFO', '*.pyd', '*.py'},
+ 'DATA',
+ [])
